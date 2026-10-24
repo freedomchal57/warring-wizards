@@ -3,7 +3,7 @@ Flask web application which runs an online multiplayer combat clicker game
 ---
 Final project for the course CS50, taken through Harvard Extension School.
 ## Instructions for running
-This app runs on Heroku at https://warring-wizards.herokuapp.com, via GitHub deployment. However, it can also be run locally.
+This app formerly ran on Heroku at https://warring-wizards.herokuapp.com, via GitHub deployment. However, it can also be run locally.
 
 This app runs on Python 3.8.2, but also works with some other recent versions of Python 3.
 
